@@ -1,0 +1,88 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+@font-face {
+	font-family: 'SourceSansPro-Semibold';
+	src: url('../fonts/SourceSansPro-Semibold.eot?') format('eot'), 
+	     url('../fonts/SourceSansPro-Semibold.otf')  format('opentype'),
+	     url('../fonts/SourceSansPro-Semibold.woff') format('woff'), 
+	     url('../fonts/SourceSansPro-Semibold.ttf')  format('truetype'),
+	     url('../fonts/SourceSansPro-Semibold.svg#SourceSansPro-Semibold') format('svg');
+}
+@font-face {
+  font-family: 'source_sans_proregular';
+  src: url('../fonts/sourcesanspro-regular-webfont.eot');
+  src: url('../fonts/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/sourcesanspro-regular-webfont.woff') format('woff'), url('../fonts/sourcesanspro-regular-webfont.ttf') format('truetype'), url('../fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-5t9vbe');
+	src:url('../fonts/icomoon.eot?#iefix-5t9vbe') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-5t9vbe') format('woff'),
+		url('../fonts/icomoon.ttf?-5t9vbe') format('truetype'),
+		url('../fonts/icomoon.svg?-5t9vbe#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	
+	width:60px;
+	height:60px;
+	line-height:60px;
+	font-size:30px;
+	display:block;
+	
+	
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+	content: "\e60c";
+}
+.icon-user-lite:before {
+	content: "\e60a";
+}
+.icon-user-bold:before {
+	content: "\e60b";
+}
+.icon-prev:before {
+	content: "\e608";
+}
+.icon-next:before {
+	content: "\e609";
+}
+.icon-email:before {
+	content: "\e600";
+}
+.icon-phone:before {
+	content: "\e601";
+}
+.icon-transaction:before {
+	content: "\e602";
+}
+.icon-location:before {
+	content: "\e603";
+}
+.icon-list-view:before {
+	content: "\e604";
+}
+.icon-password:before {
+	content: "\e605";
+}
+.icon-user:before {
+	content: "\e606";
+}
+.icon-setting:before {
+	content: "\e607";
+}
